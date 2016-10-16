@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM ppc64le/debian:jessie
 MAINTAINER Bertrand Gouny <bertrand.gouny@osixia.net>
 
 ADD . /container

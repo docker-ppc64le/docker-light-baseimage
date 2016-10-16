@@ -1,4 +1,4 @@
-NAME = osixia/light-baseimage
+NAME = dockerppc64le/docker-light-baseimage
 VERSION = 0.2.5
 
 .PHONY: all build build-nocache test tag_latest release
